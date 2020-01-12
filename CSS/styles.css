@@ -1,0 +1,197 @@
+body{
+	background-color: #2682C4;
+}
+
+p.slogan{
+	color: #004C8C;
+	font-size: 50px;
+	text-align: center;
+	font-family: Impact, "Comic Sans MS", "Times New Roman", Georgia, Serif ;
+}
+
+h1.intro{
+	color: #fff;
+	margin-bottom: 20px;
+	font-family: "Times New Roman", Georgia, Serif ;
+}
+
+p.nom{
+	color: #fff;
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-family: "Times New Roman", Georgia, Serif ;
+}
+
+img.moi{
+	width: auto;
+	height: 450px;
+}
+
+img.snkrs{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+	margin-top: 20px;
+}
+
+img.football{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+img.marvel{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+a.instagram{
+	color: #004C8C;
+	font-family: Impact, "Comic Sans MS", "Times New Roman", Georgia, Serif ;
+	size: 40px;
+}
+
+img.instagram{
+	width: 20px;
+}
+
+h4.email{
+	color: #004C8C;
+	font-family: Impact, "Comic Sans MS", "Times New Roman", Georgia, Serif ;
+	size: 30px; 
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+	font-family: Impact, "Comic Sans MS", "Times New Roman", Georgia, Serif ;
+}
+
+nav.menu-nav ul li.btn a{
+	color: #fff;
+	background-color: #004C8C; 
+	text-decoration: none;
+	font-size: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #004C8C;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+div#content div.leftbox{
+	vertical-align: top;
+	background-color: #004C8C;
+}
+
+div#content div.rightbox{
+	background-color: #2682C4;
+	vertical-align: top;
+}
+
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+
+div#content div h1, p{
+	margin: 35px;
+}
+
+div#content div.rightbox img.moi{
+	border-radius: 30%;
+}
+
+
+
+
+
+
+
+
+
+img.parra{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+	margin-top: 20px;
+}
+
+img.kaws{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+	margin-bottom: 120px;
+}
+
+img.mcu{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+img.html{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+img.css{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+div#content div.cinema{
+	vertical-align: top;
+}
+
+div#content div.art{
+	vertical-align: top;
+}
+
+
+
+
+
+
+img.comics{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+img.trophy{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+div#content div.marvel{
+	vertical-align: top;
+}
+
+
+
+
+
+img.isg{
+	width: 300px;
+	height: auto;
+	margin-left: 60px;
+}
+
+a.isginfo{
+	color: #004C8C;
+	font-family: Impact, "Comic Sans MS", "Times New Roman", Georgia, Serif ;
+	size: 40px;
+}
+
+a.source{
+	color: white;
+	size: 40px;
+}

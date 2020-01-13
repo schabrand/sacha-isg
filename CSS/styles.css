@@ -83,6 +83,10 @@ nav.menu-nav ul li.btn:hover a{
 	transition: 0.3s all;
 }
 
+
+
+
+
 div#content div.leftbox{
 	vertical-align: top;
 	background-color: #004C8C;
@@ -194,4 +198,36 @@ a.isginfo{
 a.source{
 	color: white;
 	size: 40px;
+}
+
+@media screen and (max-width: 980px){
+	div#content div.rightbox {
+		position: relative;
+   		z-index: 1;
+   		height: auto;
+  		width: auto;
+   		max-width: 100%;
+   		margin-bottom: 32px;
+	}
+}
+
+@media screen and (max-width: 980px){
+	div#content div.leftbox {
+		position: relative;
+   		z-index: 1;
+   		height: auto;
+  		width: auto;
+   		max-width: 100%;
+   		margin-bottom: 32px;
+	}
+
+	div#content div.instagram{
+		text-align: right
+	}
+}
+
+@media screen and (max-width: 980px){
+	 a.isginfo{
+		display: inline-block;
+	}
 }

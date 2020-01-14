@@ -231,3 +231,18 @@ a.source{
 		display: inline-block;
 	}
 }
+
+@media screen and (max-width: 980px){
+	h1.intro{
+	color: #fff;
+	margin-bottom: 20px;
+	font-family: "Source Sans Pro", "Times New Roman", Georgia, Serif ;
+}
+
+	p.nom{
+		color: #fff;
+		font-weight: bold;
+		margin-bottom: 20px;
+		font-family: "Source Sans Pro", "Times New Roman", Georgia, Serif ;
+	}
+}

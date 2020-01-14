@@ -190,7 +190,7 @@ img.isg{
 }
 
 a.isginfo{
-	color: #004C8C;
+	color: #FF0000;
 	font-family: Impact, "Comic Sans MS", "Times New Roman", Georgia, Serif ;
 	size: 40px;
 }
@@ -200,7 +200,7 @@ a.source{
 	size: 40px;
 }
 
-@media screen and (max-width: 2050px){
+@media screen and (max-width: 1500px){
 	div#content div.rightbox {
 		position: relative;
    		z-index: 1;
@@ -211,7 +211,7 @@ a.source{
 	}
 }
 
-@media screen and (max-width: 2050px){
+@media screen and (max-width: 1500px){
 	div#content div.leftbox {
 		position: relative;
    		z-index: 1;
@@ -226,13 +226,13 @@ a.source{
 	}
 }
 
-@media screen and (max-width: 2050px){
+@media screen and (max-width: 1500px){
 	 a.isginfo{
 		display: inline-block;
 	}
 }
 
-@media screen and (max-width: 2050px){
+@media screen and (max-width: 1500px){
 	h1.intro{
 	color: #fff;
 	margin-bottom: 20px;

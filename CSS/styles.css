@@ -200,7 +200,7 @@ a.source{
 	size: 40px;
 }
 
-@media screen and (max-width: 980px){
+@media screen and (max-width: 2050px){
 	div#content div.rightbox {
 		position: relative;
    		z-index: 1;
@@ -211,7 +211,7 @@ a.source{
 	}
 }
 
-@media screen and (max-width: 980px){
+@media screen and (max-width: 2050px){
 	div#content div.leftbox {
 		position: relative;
    		z-index: 1;
@@ -226,13 +226,13 @@ a.source{
 	}
 }
 
-@media screen and (max-width: 980px){
+@media screen and (max-width: 2050px){
 	 a.isginfo{
 		display: inline-block;
 	}
 }
 
-@media screen and (max-width: 980px){
+@media screen and (max-width: 2050px){
 	h1.intro{
 	color: #fff;
 	margin-bottom: 20px;
